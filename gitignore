@@ -1,0 +1,10 @@
+# 忽略系統與臨時檔案
+.DS_Store
+Thumbs.db
+*.log
+__pycache__/
+.ipynb_checkpoints/
+
+# 忽略開發中暫存壓縮包與備份
+*.zip
+*.bak

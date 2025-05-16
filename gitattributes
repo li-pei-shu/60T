@@ -1,0 +1,4 @@
+# 保持 JSON 文字檔為 UTF-8 編碼並使用 LF 換行
+*.json text eol=lf
+*.jsonl text eol=lf
+*.md text eol=lf
